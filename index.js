@@ -1,1 +1,1 @@
-console.log("set up completes")
+console.log("yeh kar ke dikhao")
